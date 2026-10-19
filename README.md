@@ -1,33 +1,145 @@
-# Bioprocess Equipment Selection Notes
-# 生物工艺设备与耗材选型笔记
+# Bioprocess Products & Selection Guide
+# 生物工艺产品与选型指南
 
-Practical, supplier-neutral questions for preparing an equipment or consumables inquiry. Start with the process operation, define the information you know, and mark the remaining items **to confirm**.
+We are a China-based distributor working with multiple manufacturers. Send us your product list or process requirements for a sourcing and quotation discussion.
 
-这份中立指南用于整理设备与耗材询价需求。先说明工艺动作，填写已有依据的信息；未知项目请写 **待确认**，不要从货号、相近设备或单个参数推定。
+我们是一家对接多家厂家资源的中国经销商。欢迎发送产品清单或工艺要求，沟通采购与报价。
 
-**Prepare your request:** [Inquiry checklist / 询价清单](inquiry-checklist.md)  
-**Configuration inquiry / 选型询价:** [Online inquiry form / 在线询价表](https://quote-data-studio.sandyskunk18.chatgpt.site/equipment)  
+We source across multiple manufacturers and coordinate product specifications, documentation and quotations.
+
+我们整合多家厂家资源，协调产品规格、文件资料与报价。
+
+**Prepare your request / 准备需求:** [Inquiry checklist / 询价清单](inquiry-checklist.md)  
+**Online enquiry / 在线询价:** [Product enquiry form / 产品询价表](https://quote-data-studio.sandyskunk18.chatgpt.site/equipment)  
 **Contact / 联系邮箱:** [sunzhenning503@gmail.com](mailto:sunzhenning503@gmail.com)
 
-## 1. Start with the operation / 先明确工艺动作
+## Product and service lines / 产品与服务业务
 
-| Product category / 通用品类 | Information to prepare / 需准备的信息 |
-| --- | --- |
-| Compact sterile tubing connection equipment / 小型无菌接管设备 | Tubing material and dimensions, connection operation, dry or liquid-filled state, sterilization history and operating frequency / 管材与尺寸、连接动作、空管或带液状态、灭菌经历与频次 |
-| Handheld TPE tubing sealing equipment / 手持式 TPE 封管设备 | Tubing specification, sealing and disconnection workflow, liquid state and required records / 管路规格、封管断开流程、液体状态与记录需求 |
-| Tangential flow filtration (TFF) / 切向流过滤 | Feed characteristics, membrane type, starting/final volumes, concentration or buffer-exchange objective, intended TMP and available measurements / 料液特征、膜型、起始与终体积、浓缩或换液目标、目标 TMP 与可用测量条件 |
-| Peristaltic pumping / 蠕动泵 | Fluid, required transfer flow, tubing ID/OD/material, pressure conditions and control method / 介质、输送流量、管路内外径与材质、压力工况和控制方式 |
-| Cell thawing equipment / 细胞复苏设备 | Container format, sample volume range, starting condition, handling workflow and desired records / 容器形式、样品体积范围、起始状态、操作流程与记录需求 |
-| Isolation systems / 隔离系统 | Process steps, materials entering/leaving, working space, containment or product-protection objective, cleaning/decontamination needs / 操作步骤、物料进出、空间、隔离或产品保护目标、清洁去污需求 |
-| Single-use tubing and containers / 一次性管路与容器 | Fluid-contact material, tubing ID/OD, container or connection needs, pressure/temperature and sterilization method / 接液材质、管路内外径、容器或连接需求、压力温度与灭菌方式 |
-| Filtration and integrity testing / 过滤与完整性测试 | Filtration objective, fluid and membrane information, test method required by your procedure and acceptance criteria to be reviewed / 过滤目标、介质与滤膜信息、现有规程要求的测试方法和待核对接受标准 |
-| Cell culture consumables / 细胞培养耗材 | Culture workflow, reagent or vessel type, intended scale and material/handling requirements / 培养流程、试剂或容器类型、使用规模与材质操作要求 |
-| Reactors and process analysis / 反应器与过程分析 | Intended process, working-volume range, measurements, sampling and data-interface requirements / 工艺用途、工作体积范围、测量、取样与数据接口需求 |
-| High-pressure homogenization / 高压均质 | Feed description, batch volume, processing objective, temperature constraints and intended operating requirements / 物料概况、批次体积、处理目标、温度限制与预期运行要求 |
+### UPSTREAM CELL CULTURE / 上游细胞培养
 
-These fields help frame a review. They do not establish that any particular configuration meets the requested conditions.
+**Culture media / 培养基**
 
-以上字段用于组织选型核对，不能单凭填写内容判定某个配置满足实际工况。
+Serum-free basal media and feeds for CHO and transient-expression applications.
+
+适用于CHO及瞬时表达应用的无血清基础培养基与补料。
+
+- CHO basal media / CHO基础培养基
+- CHO feed media / CHO补料培养基
+- HEK293/CHO transient-expression media and feeds / HEK293/CHO瞬时转染培养基与补料
+- Supporting culture vessels and sterile transfer caps / 配套细胞培养瓶与无菌转移盖
+
+**Bioreactors & cell analysis / 生物反应器与细胞分析**
+
+Parallel, single-use rocking, single-use stirred-tank and stainless-steel systems.
+
+平行、波浪式一次性、搅拌式一次性及不锈钢生物反应器系统。
+
+- Parallel bioreactor systems / 平行生物反应器系统
+- Single-use rocking bioreactors / 波浪式一次性生物反应器
+- Single-use stirred-tank bioreactors / 搅拌式一次性生物反应器
+- Stainless-steel bioreactors / 不锈钢生物反应器
+- Cell counting and viability analysis / 细胞计数与活率分析
+
+### DOWNSTREAM PROCESSING & PURIFICATION / 下游处理与纯化
+
+**High-pressure homogenization / 高压均质**
+
+Laboratory, pilot and production-scale homogenizers.
+
+实验、中试与生产型高压均质机。
+
+- Laboratory homogenizers / 实验型高压均质机
+- Pilot homogenizers / 中试型高压均质机
+- Production homogenizers / 生产型高压均质机
+
+**Chromatography media / 层析介质**
+
+Affinity, ion-exchange, hydrophobic-interaction and virus-purification media.
+
+亲和、离子交换、疏水及病毒纯化层析介质。
+
+- Virus-purification media / 病毒纯化介质
+- Ion-exchange media / 离子交换介质
+- Hydrophobic-interaction media / 疏水层析介质
+- Affinity media / 亲和层析介质
+
+**Filtration & integrity testing / 过滤与完整性测试**
+
+Hollow-fiber TFF, capsule filters, cartridges and integrity testers.
+
+中空纤维切向流过滤、囊式过滤器、筒式滤芯与完整性测试仪。
+
+- Hollow-fiber tangential-flow filtration / 中空纤维切向流过滤
+- Capsule filters / 囊式过滤器
+- Cartridge filters / 筒式滤芯
+- Filter integrity testing equipment / 过滤器完整性测试设备
+
+### ACROSS THE WORKFLOW / 跨工艺流程配套
+
+**Single-use solutions / 一次性解决方案**
+
+Tubing, bags, mixing, transfer, connection, sealing and monitoring.
+
+管路、储液袋、混匀、转运、接管、封管与监测。
+
+- Tubing connection equipment / 无菌接管设备
+- Tubing sealing and disconnection / 封管与断开设备
+- Single-use process tubing / 一次性工艺管路
+- Mixing and media-preparation systems / 混匀与配液系统
+- Single-use storage and transfer bags / 一次性储液与转运袋
+- Fluid-path pressure and flow monitoring / 管路压力与流量监测
+- Bulk-liquid dispensing systems / 原液分装系统
+- Bioprocess bottles and tubing assemblies / 生物工艺瓶与管路组件
+- Single-use freeze-thaw bags / 一次性冻融袋
+
+**Process & analytical reagents / 工艺与分析试剂**
+
+Nucleases and CHO host-cell-protein assays.
+
+核酸酶与CHO宿主细胞蛋白检测试剂。
+
+- Nucleases / 核酸酶
+- CHO host-cell-protein assays / CHO宿主细胞蛋白检测试剂
+
+**Isolation & containment / 隔离与防护系统**
+
+Aseptic-filling, homogenization and negative-pressure isolator systems.
+
+无菌灌装、均质及负压防护隔离系统。
+
+- Aseptic-filling isolators / 无菌灌装隔离器
+- Homogenization isolator workstations / 均质隔离工作站
+- Negative-pressure containment isolators / 负压防护隔离器
+
+**Qualification & validation coordination / 确认与验证协调**
+
+Requirements review and coordination with qualified service providers.
+
+需求梳理与合格服务方协调。
+
+- Cleanliness and airflow test requirements / 洁净度与风速检测需求
+- Equipment qualification requirements / 仪器设备确认需求
+- Utility-validation requirements / 公用设施验证需求
+- Computerized-system validation requirements / 计算机化系统验证需求
+- On-site and specialist support requirements / 驻场与专项支持需求
+
+**Laboratory systems / 实验室系统**
+
+Microfluidic nanoparticle preparation, pure-water and ultrapure-water systems.
+
+微流控纳米制剂制备、纯水及超纯水系统。
+
+- Microfluidic nanoparticle-preparation systems / 微流控纳米制剂制备系统
+- Laboratory pure-water workstations / 实验室纯水工作站
+- Ultrapure-water systems / 超纯水系统
+
+Culture media is an independent business line. All four bioreactor types belong to upstream cell culture. Single-use bioreactors are separate from fluid-handling tubing and bags.
+
+培养基为独立业务；四类生物反应器全部属于上游细胞培养，一次性反应器与流体处理管路、储液袋分开选型。
+
+We clarify the scope and coordinate qualified service providers. Provider qualifications and geographic coverage are checked for each project. No in-house testing accreditation is claimed.
+
+我们澄清范围并协调合格服务方；服务方资质及地域覆盖按项目核对。不宣称自身具有检测资质。
 
 ## 2. Tubing connection and sealing are different operations / 接管与封管断开要分开
 
@@ -89,3 +201,7 @@ Use the [checklist](inquiry-checklist.md) to send an anonymized functional summa
 Share only information you are authorized to disclose. Start without customer records, confidential formulations, internal drawings, payment details or credentials. If technical documents are needed later, first agree on an appropriate review and handover method.
 
 请仅分享有权披露的信息。初次询价不要提交客户记录、保密配方、内部图纸、付款资料或账号密码；后续如需技术文件，先确认适合的核阅与交接方式。
+
+Availability, configuration, documentation and commercial terms are confirmed for each enquiry.
+
+可供情况、配置、文件资料与商务条款按每项询价逐一确认。

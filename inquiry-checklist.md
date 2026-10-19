@@ -1,11 +1,11 @@
-# Bioprocess Inquiry Checklist
-# 生物工艺设备与耗材询价清单
+# Bioprocess Product Inquiry Checklist
+# 生物工艺产品询价清单
 
-Copy the relevant sections into an inquiry. Use **to confirm / 待确认** for unknown items. Describe functions and needs; do not publish proprietary process configurations or sensitive documents with the completed checklist.
+We are a China-based distributor working with multiple manufacturers. Copy the relevant fields below and mark unknown items **to confirm**.
 
-可复制相关部分填写。未知项写 **待确认**。重点说明功能与需求；不要把专有工艺配置或敏感资料随已填写清单公开发布。
+我们是一家对接多家厂家资源的中国经销商。请复制相关字段填写，未知项写**待确认**。
 
-**Online / 在线:** [Configuration inquiry form / 选型询价表](https://quote-data-studio.sandyskunk18.chatgpt.site/equipment)  
+**Online / 在线:** [Product enquiry form / 产品询价表](https://quote-data-studio.sandyskunk18.chatgpt.site/equipment)  
 **Email / 邮箱:** [sunzhenning503@gmail.com](mailto:sunzhenning503@gmail.com)
 
 ## A. Common fields / 通用字段
@@ -27,7 +27,160 @@ For contact information, confirm: **I agree to its use only to handle this inqui
 
 联系信息用途确认：**我同意使用以上联系信息，仅用于处理这次询价。**
 
-## B. Tubing and fluid-contact requirements / 管路与接液需求
+## B. Product and service lines / 产品与服务类别
+
+### 1. Culture media / 培养基
+
+UPSTREAM CELL CULTURE / 上游细胞培养
+
+CHO basal media / CHO feed media / HEK293/CHO transient-expression media and feeds / Supporting culture vessels and sterile transfer caps
+
+CHO基础培养基、CHO补料培养基、HEK293/CHO瞬时转染培养基与补料、配套细胞培养瓶与无菌转移盖
+
+For enquiry: cell line, application, culture mode, basal or feed requirement, preferred format and documentation needs.
+
+询价要点：细胞系、应用、培养方式、基础培养基或补料需求、所需形式和文件要求。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 2. Bioreactors & cell analysis / 生物反应器与细胞分析
+
+UPSTREAM CELL CULTURE / 上游细胞培养
+
+Parallel bioreactor systems / Single-use rocking bioreactors / Single-use stirred-tank bioreactors / Stainless-steel bioreactors / Cell counting and viability analysis
+
+平行生物反应器系统、波浪式一次性生物反应器、搅拌式一次性生物反应器、不锈钢生物反应器、细胞计数与活率分析
+
+For enquiry: organism or cell type, working volume, batch or fed-batch mode, mixing, gas delivery and control requirements.
+
+询价要点：微生物或细胞类型、工作体积、批次或补料分批培养方式、搅拌、供气与控制要求。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 3. High-pressure homogenization / 高压均质
+
+DOWNSTREAM PROCESSING & PURIFICATION / 下游处理与纯化
+
+Laboratory homogenizers / Pilot homogenizers / Production homogenizers
+
+实验型高压均质机、中试型高压均质机、生产型高压均质机
+
+Discuss feed properties, batch volume, pressure and temperature-control needs.
+
+请说明料液性质、批次体积、压力与温控需求。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 4. Chromatography media / 层析介质
+
+DOWNSTREAM PROCESSING & PURIFICATION / 下游处理与纯化
+
+Virus-purification media / Ion-exchange media / Hydrophobic-interaction media / Affinity media
+
+病毒纯化介质、离子交换介质、疏水层析介质、亲和层析介质
+
+For enquiry: target molecule, feed characteristics, separation objective, scale and resin requirements.
+
+询价要点：目标分子、进料特性、分离目标、规模与介质要求。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 5. Filtration & integrity testing / 过滤与完整性测试
+
+DOWNSTREAM PROCESSING & PURIFICATION / 下游处理与纯化
+
+Hollow-fiber tangential-flow filtration / Capsule filters / Cartridge filters / Filter integrity testing equipment
+
+中空纤维切向流过滤、囊式过滤器、筒式滤芯、过滤器完整性测试设备
+
+For enquiry: feed, starting and target volume, membrane or pore-size needs, flow and pressure conditions.
+
+询价要点：料液、起始与目标体积、膜材或孔径要求、流量与压力工况。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 6. Single-use solutions / 一次性解决方案
+
+ACROSS THE WORKFLOW / 跨工艺流程配套
+
+Tubing connection equipment / Tubing sealing and disconnection / Single-use process tubing / Mixing and media-preparation systems / Single-use storage and transfer bags / Fluid-path pressure and flow monitoring / Bulk-liquid dispensing systems / Bioprocess bottles and tubing assemblies / Single-use freeze-thaw bags
+
+无菌接管设备、封管与断开设备、一次性工艺管路、混匀与配液系统、一次性储液与转运袋、管路压力与流量监测、原液分装系统、生物工艺瓶与管路组件、一次性冻融袋
+
+For enquiry: fluid, volume, tubing material and ID/OD, connection map, sterilization method and operating conditions.
+
+询价要点：介质、体积、管材与内外径、连接图、灭菌方法与操作条件。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 7. Process & analytical reagents / 工艺与分析试剂
+
+ACROSS THE WORKFLOW / 跨工艺流程配套
+
+Nucleases / CHO host-cell-protein assays
+
+核酸酶、CHO宿主细胞蛋白检测试剂
+
+For enquiry: intended use, sample type, required grade, pack size and supporting documents.
+
+询价要点：预期用途、样品类型、所需等级、包装规格与配套文件。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 8. Isolation & containment / 隔离与防护系统
+
+ACROSS THE WORKFLOW / 跨工艺流程配套
+
+Aseptic-filling isolators / Homogenization isolator workstations / Negative-pressure containment isolators
+
+无菌灌装隔离器、均质隔离工作站、负压防护隔离器
+
+Discuss the operation, transfer method, workspace and protection objective.
+
+请说明工序、转移方式、操作空间与防护目标。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 9. Qualification & validation coordination / 确认与验证协调
+
+ACROSS THE WORKFLOW / 跨工艺流程配套
+
+Cleanliness and airflow test requirements / Equipment qualification requirements / Utility-validation requirements / Computerized-system validation requirements / On-site and specialist support requirements
+
+洁净度与风速检测需求、仪器设备确认需求、公用设施验证需求、计算机化系统验证需求、驻场与专项支持需求
+
+We clarify the scope and coordinate qualified service providers. Provider qualifications and geographic coverage are checked for each project.
+
+我们澄清范围并协调合格服务方；服务方资质及地域覆盖按项目核对。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+### 10. Laboratory systems / 实验室系统
+
+ACROSS THE WORKFLOW / 跨工艺流程配套
+
+Microfluidic nanoparticle-preparation systems / Laboratory pure-water workstations / Ultrapure-water systems
+
+微流控纳米制剂制备系统、实验室纯水工作站、超纯水系统
+
+Discuss the application, required output and water-quality or process specifications.
+
+请说明应用、所需产出及水质或工艺规格要求。
+
+- Your requirement / 请填写：
+- Items to confirm / 待确认事项：
+
+## C. Additional tubing details / 管路补充信息
+
 
 | Field / 字段 | Your requirement / 请填写 |
 | --- | --- |
@@ -45,25 +198,8 @@ State whether a dimension is nominal, specified or measured. Keep unknowns visib
 
 请注明尺寸属于标称、规格规定还是测量值。保留未知项，不从货号推定缺失尺寸。
 
-## C. Choose the relevant category / 选择相关品类补充
+## D. Additional TFF details / TFF补充信息
 
-### 1. Compact sterile tubing connection / 小型无菌接管
-
-- Operation to perform and both tubing segments / 工艺动作及两端管路信息：
-- Material and ID/OD for each segment / 各端材质及内外径：
-- Dry or liquid-filled condition and sterilization history / 空管或带液状态与灭菌经历：
-- Connection frequency and handling constraints / 接管频次与操作限制：
-- Records, controls or verification to review / 需核对的记录、控制或验证要求：
-
-### 2. Handheld TPE tubing sealing / 手持式 TPE 封管
-
-- Tubing specification and dimensions / 管路规格与尺寸：
-- Sealing only, separation only, or both / 封管、分离或两者兼有：
-- Liquid state and operating conditions / 液体状态与工况：
-- Required sealed-end handling and records / 封管端后续处理与记录要求：
-- Proposed method of separation to confirm / 待确认的分离方式：
-
-### 3. Tangential flow filtration / 切向流过滤
 
 - Anonymized feed description / 脱敏料液概况：
 - Concentration, buffer exchange or other objective / 浓缩、换液或其他目标：
@@ -79,72 +215,7 @@ State whether a dimension is nominal, specified or measured. Keep unknowns visib
 
 **核对：**循环流量不等于每小时处理体积的承诺。比较数值之前，先说明液流位置与处理目标。
 
-### 4. Peristaltic pumping / 蠕动泵
-
-- Transfer, dosing or recirculation duty / 输送、定量添加或循环用途：
-- Required flow range with units / 所需流量范围与单位：
-- Tubing material, ID/OD and documented pressure constraints / 管材、内外径与已有压力限制依据：
-- Fluid characteristics, suction/discharge conditions / 介质特征与吸入、排出条件：
-- Control, communication and recording needs / 控制、通信与记录需求：
-
-### 5. Cell thawing / 细胞复苏
-
-- Container format and material / 容器形式与材质：
-- Sample volume range and starting condition / 样品体积范围与起始状态：
-- Desired workflow and handling constraints / 期望流程与操作限制：
-- Temperature-related requirements and available procedure / 温度相关需求与已有规程：
-- Traceability or record needs / 追溯与记录需求：
-
-### 6. Isolation systems / 隔离系统
-
-- Process steps and operator tasks / 工艺步骤与人员操作：
-- Product-protection or containment objective / 产品保护或隔离目标：
-- Materials entering/leaving and transfer workflow / 物料进出与传递流程：
-- Working-space and installation constraints / 工作空间与安装限制：
-- Cleaning/decontamination and documentation needs / 清洁去污与文件需求：
-
-### 7. Single-use tubing and containers / 一次性管路与容器
-
-- Tubing, container, sampling, filling or other functional need / 管路、容器、取样、分装或其他功能需求：
-- Fluid-contact material and documented dimensions / 接液材质与有依据的尺寸：
-- Pressure, temperature and sterilization method / 压力、温度与灭菌方式：
-- Interface or connection type to review / 待核对接口或连接形式：
-- Required quantity, packaging and handling requirements / 数量、包装与操作要求：
-
-### 8. Filtration and integrity testing / 过滤与完整性测试
-
-- Filtration objective and fluid information / 过滤目标与介质信息：
-- Membrane material, format and separation criterion to review / 待核对膜材、形式与分离要求：
-- Required throughput or batch-volume goal, with units / 处理量或批次体积目标与单位：
-- Test method required by the current procedure / 现有规程要求的测试方法：
-- Wetting condition, test conditions and acceptance criteria to confirm / 润湿条件、测试工况与待确认接受标准：
-- Data and report requirements / 数据与报告要求：
-
-### 9. Cell culture consumables / 细胞培养耗材
-
-- Reagent, vessel or related consumable category / 试剂、培养容器或相关耗材类别：
-- Intended culture workflow, described without confidential details / 培养流程概况，勿包含保密细节：
-- Working scale and handling needs / 使用规模与操作需求：
-- Material, storage and preparation requirements / 材质、储存与准备要求：
-- Required documentation to review / 需核对文件：
-
-### 10. Reactors and process analysis / 反应器与过程分析
-
-- Intended process and working-volume range / 工艺用途与工作体积范围：
-- Single-use or reusable arrangement to review / 待核对一次性或可重复使用形式：
-- Measurements, sampling points and control objectives / 测量、取样位置与控制目标：
-- Utility, installation and cleaning constraints / 公用工程、安装与清洁限制：
-- Software, data export and interface needs / 软件、数据导出与接口需求：
-
-### 11. High-pressure homogenization / 高压均质
-
-- Anonymized material description and processing objective / 脱敏物料概况与处理目标：
-- Batch-volume or transfer-flow requirement, with units / 批次体积或输送流量需求与单位：
-- Intended pressure requirements to review / 待核对压力需求：
-- Temperature constraints and cooling needs / 温度限制与冷却需求：
-- Proposed workflow, cleaning and documentation needs / 拟用流程、清洁与文件需求：
-
-## D. Before sending / 提交前核对
+## E. Before sending / 提交前核对
 
 - Share only authorized, anonymized information / 仅分享有权披露的脱敏信息。
 - Keep customer information, confidential formulations, internal drawings, payment information and credentials out of the initial request / 初次询价不包含客户信息、保密配方、内部图纸、付款资料或账号密码。
